@@ -1,4 +1,4 @@
-module practice5
+module orders-lambda
 
 go 1.27.3
 
