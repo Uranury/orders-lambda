@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+*.tfplan
+
+# Build artifacts
+bootstrap
+build/
+*.zip
+
+# OS / secrets
+.DS_Store
+*.pem
